@@ -1,0 +1,20 @@
+.btn{
+    padding:5px;
+    float:right;
+    margin:4px 4px 0px 5px;
+  }
+  .heading{
+    font: 100px 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top:3%;
+    margin-left: 27%;
+    color:aliceblue;
+  }
+  .cover{
+    height:10%;
+    margin-left:35%;
+    margin-top:5%;
+  }
+  .search{
+      margin-left:43%;
+      margin-top:3%;
+  }

@@ -1,0 +1,26 @@
+.typewriter{
+    animation: typewriter 3s steps(20) infinite;
+}
+.feature{
+    color: aliceblue;
+    position: relative;
+    width: 14em;
+    margin-left: 40%;
+    white-space: nowrap;
+    overflow: hidden;
+    transform: translateY(-25%); 
+    text-decoration:bold;
+    font-family: 'Montserrat', sans-serif;
+    text-shadow: 2px 2px 4px #f09090; 
+    }
+.feature:hover{
+    cursor: pointer;
+}
+@keyframes typewriter{
+    from{width: 0;}
+    to{width: 14em;}
+    }
+  .card{
+      margin:13px;
+      text-align: center;
+  }
