@@ -1,0 +1,12 @@
+.navbar {
+  padding-top: 1.5rem;
+  background-color: #f4f0e1;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.nav-links {
+  color: #000000;
+  font-weight: 900;
+  font-size: 18px;
+}
