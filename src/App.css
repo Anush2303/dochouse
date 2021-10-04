@@ -1,7 +1,6 @@
 body{
-  /*background-image: url("https://infolib.blog.jbs.cam.ac.uk/wp-content/uploads/2021/02/annie-spratt-QckxruozjRg-unsplash-1024x683.jpg");*/
-  background-color: rgb(9, 14, 36);
-  position:absolute;
+  background: rgb(1,15,29);
+ background: linear-gradient(90deg, rgb(1, 15, 27) 50%, rgb(211, 211, 255) 100%);
   width:100%;
   height:100vh;
   background-position: top;

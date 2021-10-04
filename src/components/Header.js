@@ -13,11 +13,11 @@ function Header(){
     return(
         <div>
             <Navbar/>
-            <div className="heading">
+            <div className="row heading">
                 <p>DOCHOUSE {isshown?<i class="fas fa-user-graduate"></i>:<i class="fas fa-user"></i>}</p>
                 <h1>AB ENGINEERING HOGI ASAAN!</h1>
             </div>
-            <div className="search">
+            <div className="row search">
                 <input type="text" placeholder="Enter subject" />
             </div>
             <img className="cover" src="http://4.bp.blogspot.com/-zJOGr6L6WXI/T5WktVyAIII/AAAAAAAAAAc/bi2MsS9jePI/s1600/head_gear_500_clr.gif" alt="img"/>

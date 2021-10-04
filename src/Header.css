@@ -5,16 +5,26 @@
   }
   .heading{
     font: 100px 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    text-align: center;
+    flex:1;
     margin-top:3%;
-    margin-left: 27%;
     color:aliceblue;
   }
   .cover{
     height:10%;
-    margin-left:35%;
+    display:flex;
     margin-top:5%;
+    margin-left: auto;
+    margin-right: auto;
+    flex:1;
   }
   .search{
-      margin-left:43%;
-      margin-top:3%;
+    display:flex;
+    text-align:center;
+    margin-left:33%;
+    margin-top:15px;
+    flex:1;
+    width:33%;
   }
+  

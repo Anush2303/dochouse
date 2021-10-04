@@ -5,11 +5,10 @@ function Card(props){
     const [fcolor,setfcolor]=useState("black")
     const styles={
         background:`${bgColour}`,
-        color:`${fcolor}`,
-        width:"31%"
-    }
+        color:`${fcolor}`
+    }     
     function handlechange(){
-        setBgColour("#c83f49")
+        setBgColour("linear-gradient(10deg, rgba(2,0,36,1) 29%, rgba(154,50,35,1) 100%, rgba(0,212,255,1) 100%)")
         setfcolor("white")
     }
     return(

@@ -24,3 +24,6 @@
       margin:13px;
       text-align: center;
   }
+.feature{
+    display: flex;
+}
