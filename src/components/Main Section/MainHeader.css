@@ -1,0 +1,21 @@
+.main_header {
+  background-color: #f4f0e1;
+}
+
+.title {
+  font-weight: 900;
+  font-size: large;
+  color: #f74700;
+  text-align: center;
+}
+
+.subtitle {
+  font-size: medium;
+  color: #f74700;
+  text-align: center;
+}
+
+img {
+  height: 20%;
+  width: 20%;
+}

@@ -1,30 +1,40 @@
-.btn{
-    padding:5px;
-    float:right;
-    margin:4px 4px 0px 5px;
-  }
-  .heading{
-    font: 100px 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    display: flex;
-    text-align: center;
-    flex:1;
-    margin-top:3%;
-    color:aliceblue;
-  }
-  .cover{
-    height:10%;
-    display:flex;
-    margin-top:5%;
-    margin-left: auto;
-    margin-right: auto;
-    flex:1;
-  }
-  .search{
-    display:flex;
-    text-align:center;
-    margin-left:33%;
-    margin-top:15px;
-    flex:1;
-    width:33%;
-  }
-  
+.btn {
+  padding: 5px;
+  float: right;
+  margin: 4px 4px 0px 5px;
+}
+
+.title {
+  color: #f74700;
+}
+
+.subtitle {
+  color: #f74700;
+}
+
+.heading {
+  font: 100px "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  display: flex;
+  text-align: center;
+  flex: 1;
+  margin-top: 3%;
+  color: aliceblue;
+}
+
+.cover {
+  height: 10%;
+  display: flex;
+  margin-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  flex: 1;
+}
+
+.search {
+  display: flex;
+  text-align: center;
+  margin-left: 33%;
+  margin-top: 15px;
+  flex: 1;
+  width: 33%;
+}
