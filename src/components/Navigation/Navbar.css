@@ -11,6 +11,7 @@
   font-size: 18px;
 }
 .nav-links:hover{
+  text-decoration:none;
   cursor: pointer;
   color:rgb(2, 3, 3);
   background-color: #afafaf;

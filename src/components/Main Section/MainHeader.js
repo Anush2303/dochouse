@@ -15,7 +15,7 @@ const MainHeader = () => {
 
   return (
     <>
-      <Jumbotron className="main_header">
+      <Jumbotron className="main_header animate__animated animate__zoomIn">
         <h1 className="display-3 title">
           DOCHOUSE{" "}
           {isShown ? (
@@ -26,7 +26,7 @@ const MainHeader = () => {
         </h1>
         <h3 className="lead subtitle">AB ENGINEERING HOGI ASAAN!</h3>
 
-        <div>
+        <div className="animate__animated animate__zoomIn">
           <img
             className="cover"
             src="http://4.bp.blogspot.com/-zJOGr6L6WXI/T5WktVyAIII/AAAAAAAAAAc/bi2MsS9jePI/s1600/head_gear_500_clr.gif"
